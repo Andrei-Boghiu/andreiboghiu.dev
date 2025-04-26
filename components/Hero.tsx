@@ -35,7 +35,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I'm Andrei. I build and advise on software solutions.
+            Hi, I&apos;m Andrei. I build and advise on software solutions.
           </p>
 
           <a href="https://t.me/andreiboghiu" target="_blank" rel="noreferrer">
