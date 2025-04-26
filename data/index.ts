@@ -11,7 +11,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "Flexible Availability Across Time Zones",
+    title: "Delivering Solutions Globally",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -21,7 +21,7 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "Robust Tech Stack Expertise",
+    title: "Tech Stack",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -41,7 +41,7 @@ export const gridItems = [
   },
   {
     id: 5,
-    title: "Building Tools That Push Boundaries",
+    title: "Fast, Modern, and Efficient Development",
     description: "",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -60,6 +60,7 @@ export const gridItems = [
     spareImg: "",
   },
 ];
+
 export const workExperience = [
   {
     id: 1,
